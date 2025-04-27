@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.vscode/
+release/
+*.zip
+*.exe
+build/
+logs/
+conf/
